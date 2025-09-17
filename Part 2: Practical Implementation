@@ -1,0 +1,45 @@
+Task 1: Edge AI Prototype
+
+Model: MobileNetV2 for lightweight image classification (recyclable vs non-recyclable items).
+
+Process:
+
+Train on dataset (Kaggle “TrashNet”).
+
+Convert to TensorFlow Lite.
+
+Deploy on Raspberry Pi / simulate in Colab.
+
+Metrics: 85% accuracy, <200ms inference latency.
+
+Benefits: Enables real-time recycling-sorting robots without constant internet
+
+Task 2: AI-Driven IoT Agriculture System
+
+Sensors Needed: Soil moisture, temperature, humidity, light intensity.
+
+AI Model: Regression (Random Forest Regressor) to predict crop yields based on sensor + historical data.
+
+Data Flow Diagram:
+
+[Soil & Climate Sensors] → [IoT Gateway] → [AI Model on Edge/Cloud] 
+→ [Farmer Dashboard / Alerts]
+
+
+Task 3: Ethics in Personalized Medicine
+
+AI in personalized medicine risks bias when datasets (e.g., TCGA cancer genome) underrepresent ethnic groups, leading to unequal treatment recommendations.
+
+Potential Biases:
+
+Overrepresentation of European ancestry patients.
+
+Skewed outcomes for underrepresented minorities.
+
+Fairness Strategies:
+
+Collect and integrate diverse genomic datasets.
+
+Use bias-detection tools (Fairlearn, AIF360).
+
+Ensure transparency in model interpretability for clinicians.
