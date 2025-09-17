@@ -1,0 +1,50 @@
+Q1. Edge AI vs Cloud AI
+
+Edge AI processes data locally on devices (smartphones, IoT sensors, Raspberry Pi) instead of sending it to distant cloud servers.
+
+Reduced latency: Processing near the source avoids delays caused by network transmission. This is critical in autonomous systems like drones or self-driving cars,
+where milliseconds can determine safety.
+
+Enhanced privacy: Sensitive data (like faces in a smart home camera) never leaves the device, lowering exposure to cyber risks.
+
+Example: DJI drones with onboard AI chips detect obstacles in real time without relying on cloud servers.
+
+Q2. Quantum AI vs Classical AI
+
+Classical AI relies on binary computing and heuristic algorithms to solve optimization problems, but struggles with large-scale complexity.
+
+Quantum AI leverages qubits and quantum parallelism to explore multiple solutions simultaneously, drastically improving optimization speed.
+
+Industries benefiting most:
+
+Finance: portfolio optimization.
+
+Pharma/Healthcare: quantum drug discovery.
+
+Logistics: route optimization for supply chains.
+
+
+Q3. Human–AI Collaboration in Healthcare
+
+Human–AI collaboration augments rather than replaces healthcare professionals.
+
+Radiologists: AI assists in detecting anomalies in scans faster, while radiologists interpret context and patient history.
+
+Nurses: AI chatbots and triage systems handle routine tasks, freeing nurses for compassionate, hands-on care.
+
+Impact: Improves efficiency, reduces diagnostic errors, and enables more personalized care delivery.
+
+
+Case Study Critique – AI in Smart Cities
+
+Integration Benefits:
+
+IoT + AI in traffic management enables adaptive signal control, reducing congestion and emissions.
+
+Urban sustainability improves through fuel savings and better air quality.
+
+Challenges:
+
+Data Security: Vulnerability to hacking of IoT-enabled infrastructure.
+
+Interoperability: Different IoT devices and vendors may struggle to communicate effectively.
